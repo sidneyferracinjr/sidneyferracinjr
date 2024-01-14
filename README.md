@@ -1,34 +1,34 @@
-# Portfolio Starter Kit
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
+<p align="left"> 
+<p><strong>Sou um estudante de Engenharia de Software buscando maior conhecimento e oportunidades de crescimento na minha carreira profissional.</strong></p>
 
-- Automatically configured to handle Markdown/MDX
-- Generates an RSS feed based on your posts
-- A beautiful theme included out of the box
-- Easily categorize posts with tags
-- Fast, optimized web font loading
+<p>Amo a tecnologia e procuro me manter atualizado sobre todas as novidades do mercado, tentando, através disso, me destacar profissionalmente e ajudar meus colegas a também serem bem vistos.</p>
 
-## Configuration
+<p><em>Atualmente, estou cursando Bacharelado em Engenharia de Software na Universidade Tecnológica Federal do Paraná e trabalhando como Web Developer na Tata Consultancy Services, a maior provedora de serviços e produtos de TI do mundo.</em></p>
+</p>
 
-1. Update your name in `theme.config.js` or change the footer.
-1. Update your name and site URL for the RSS feed in `scripts/gen-rss.js`.
-1. Update the meta tags in `pages/_document.js`.
-1. Update the posts inside `pages/posts/*.md` with your own content.
+<p align="left">
+  🦄 Linguagens: **HTML;** **CSS;** **JavaScript;** **Java;**
+</p>
 
-## Deploy your own
+<p align="left">
+  💼 Ferramentas: **Visual Studio Code;** **Eclipse;** **Git;** **Jira;** **Outros...**
+</p>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+<p align="left">
+  💌 Entre em contato: ⤵️
+</p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/nextjs-portfolio-starter&project-name=portfolio&repository-name=portfolio)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example blog my-blog
-# or
-yarn create next-app --example blog my-blog
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+<p align="left">
+  <a href="mailto:sidneyferracinjr@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/sidneyferracinjr/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5514996139813?text=Olá!%20Vim%20através%20do%20seu%20site.%20:D" target="_blank" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://www.facebook.com/sidneyferracinjr/" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/sidneyferracinjr/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
