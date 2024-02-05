@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **HTML;** **CSS;** **JavaScript;** **Java;**
+  🦄 Linguagens: Java; JavaScript; Python;
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Visual Studio Code;** **Eclipse;** **Git;** **Jira;** **Outros...**
+  💼 Ferramentas: Visual Studio Code; Eclipse; Git; Jira;
 </p>
 
 <p align="left">
