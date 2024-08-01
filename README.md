@@ -1,16 +1,11 @@
 <!-- Desenvolvido por: Sidney Ferracin Jr. (https://github.com/sidneyferracinjr) -->
-<div align="center">
-  <div style="display: inline_block">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-    <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
+<div>
+  <p align="center">
+    <a href="https://skillicons.dev"> 
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,java,spring,mysql&theme=light" />
+      <!-- <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,py,django,java,spring,kotlin,swift,mysql,mongodb,kafka&theme=light" -- Um dia... /> -->
+    </a>
+  </p>
 </div>
 
 <br>
