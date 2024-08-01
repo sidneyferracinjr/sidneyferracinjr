@@ -25,25 +25,29 @@
 <div>
   <table style="border-collapse: collapse; width: 100%; border: none;">
     <tr>
-      <td style="border: none;"><a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyferracinjr&theme=dark&hide_border=true&background=101010&card_width=500&card_height=200" alt="sidneyferracinjr's GitHub Stats" />
+      <td style="border: none;">
+        <a href="https://github.com/sidneyferracinjr">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyferracinjr&theme=dark&hide_border=true&background=101010&card_width=500&card_height=200" alt="sidneyferracinjr's GitHub Ofensive" />
+        </a>
       </td>
-        <td style="border: none;"><a href="https://git.io/streak-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyferracinjr&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=101010&card_width=425&card_height=200" alt="sidneyferracinjr's GitHub Stats" />
-        </td>
+      <td style="border: none;"><a href="https://git.io/streak-stats">
+        <a href="https://linkedin.com/in/sidneyferracinjr">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyferracinjr&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=101010&card_width=425&card_height=200" alt="sidneyferracinjr's Languages" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td style="border: none;">
         <div align="center">
-          <div align="center">
-            <img src="https://leetcard.jacoblin.cool/sidneyferracinjr?font=Open_Sans&border=0&width=500&height=200" alt="LeetCode">
-          </div>
+          <a href="https://leetcode.com/sidneyferracinjr/">
+            <img src="https://leetcard.jacoblin.cool/sidneyferracinjr?font=Open_Sans&border=0&width=500&height=200" alt="sidneyferracinjr's LeetCode">
+          </a>
         </div>
       </td>
       <td style="border: none;">  
         <div align="center> 
-          <a href="https://www.duolingo.com/profile/sidneyferracinjr?via=share_profile_link ">
-            <img src="https://duolingo-stats-card.vercel.app/api?username=sidneyferracinjr&sort=xp&width=500&height=200" alt="Logo">
+          <a href="https://duolingo.com/profile/sidneyferracinjr">
+            <img src="https://duolingo-stats-card.vercel.app/api?username=sidneyferracinjr&sort=xp&width=500&height=200" alt="sidneyferracinjr's Duolingo">
           </a>
         </div>
       </td>
@@ -57,7 +61,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-      <img width="800" src="https://github-profile-trophy.vercel.app/?username=sidneyferracinjr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+      <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sidneyferracinjr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
     </a>
   </p>
 </div>
