@@ -26,22 +26,24 @@
   <table style="border-collapse: collapse; width: 100%; border: none;">
     <tr>
       <td style="border: none;"><a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyferracinjr&theme=dark&hide_border=true" alt="sidneyferracinjr's GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyferracinjr&theme=dark&hide_border=true&background=101010&card_width=500&card_height=200" alt="sidneyferracinjr's GitHub Stats" />
       </td>
         <td style="border: none;"><a href="https://git.io/streak-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyferracinjr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="sidneyferracinjr's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyferracinjr&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=101010&card_width=425&card_height=200" alt="sidneyferracinjr's GitHub Stats" />
         </td>
     </tr>
     <tr>
       <td style="border: none;">
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=sidneyferracinjr&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="sidneyferracinjr's GitHub Stats" />
+          <div align="center">
+            <img src="https://leetcard.jacoblin.cool/sidneyferracinjr?font=Open_Sans&border=0&width=500&height=200" alt="LeetCode">
+          </div>
         </div>
       </td>
       <td style="border: none;">  
-        <div align="center">
+        <div align="center> 
           <a href="https://www.duolingo.com/profile/sidneyferracinjr?via=share_profile_link ">
-          <img src="https://duolingo-stats-card.vercel.app/api?username=sidneyferracinjr&sort=xp" alt="Logo">
+            <img src="https://duolingo-stats-card.vercel.app/api?username=sidneyferracinjr&sort=xp&width=500&height=200" alt="Logo">
           </a>
         </div>
       </td>
