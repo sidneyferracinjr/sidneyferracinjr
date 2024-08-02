@@ -7,15 +7,10 @@
     </a>
   </p>
   <p align="center">
-    <a href="https://t.me/sidneyferracinjr">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="mailto:sidneyferracinjr+github@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/sidneyferracinjr">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    <a href="https://www.linkedin.com/in/sidneyferracinjr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sidneyferracinjr"></a>
+    <a href="mailto:sidneyferracinjr+githubreadme@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sidneyferracinjr"></a>
+    <a href="https://dev.to/sidneyferracinjr"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="sidneyferracinjr"></a>
+    <a href="https://discordapp.com/users/365613069554024451"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="sixxxy" ></a>
   </p>
 </div>
 
