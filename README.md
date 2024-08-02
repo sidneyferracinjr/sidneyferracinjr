@@ -6,13 +6,24 @@
       <!-- <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,py,django,java,spring,kotlin,swift,mysql,mongodb,kafka&theme=light" -- Um dia... /> -->
     </a>
   </p>
+  <p align="center">
+    <a href="https://t.me/sidneyferracinjr">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="mailto:sidneyferracinjr+github@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/sidneyferracinjr">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 <br>
 
 ### 🚀 Weekly Performance
 <div align="center> 
-  
+
   [![](https://github-readme-activity-graph.vercel.app/graph?username=sidneyferracinjr&hide_title=true&hide_border=true&theme=github-compact&color=E6EDF3&line=29903B&point=E6EDF3&grid=false&days=7&area=true&area_color=29903B)]()
 
 </div>
@@ -26,7 +37,7 @@
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyferracinjr&theme=dark&hide_border=true&background=101010&card_width=500&card_height=200" alt="sidneyferracinjr's GitHub Ofensive" />
         </a>
       </td>
-      <td style="border: none;"><a href="https://git.io/streak-stats">
+      <td style="border: none;">
         <a href="https://linkedin.com/in/sidneyferracinjr">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyferracinjr&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=101010&card_width=425&card_height=200" alt="sidneyferracinjr's Languages" />
         </a>
@@ -34,18 +45,14 @@
     </tr>
     <tr>
       <td style="border: none;">
-        <div align="center">
-          <a href="https://leetcode.com/sidneyferracinjr/">
-            <img src="https://leetcard.jacoblin.cool/sidneyferracinjr?font=Open_Sans&border=0&width=500&height=200" alt="sidneyferracinjr's LeetCode">
-          </a>
-        </div>
+        <a href="https://leetcode.com/sidneyferracinjr/">
+          <img src="https://leetcard.jacoblin.cool/sidneyferracinjr?font=Open_Sans&border=0&width=500&height=200" alt="sidneyferracinjr's LeetCode" />
+        </a>
       </td>
       <td style="border: none;">  
-        <div align="center> 
-          <a href="https://duolingo.com/profile/sidneyferracinjr">
-            <img src="https://duolingo-stats-card.vercel.app/api?username=sidneyferracinjr&sort=xp&width=500&height=200" alt="sidneyferracinjr's Duolingo">
-          </a>
-        </div>
+        <a href="https://www.duolingo.com/profile/sidneyferracinjr?via=share_profile_link ">
+          <img src="https://duolingo-stats-card.vercel.app/api?username=sidneyferracinjr&sort=xp&width=500&height=200" alt="sidneyferracinjr's Duolingo" />
+        </a>
       </td>
     </tr>
   </table>
