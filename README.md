@@ -2,7 +2,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev"> 
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,java,spring,mysql&theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,django,java,spring,mysql&theme=light" />
       <!-- <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,py,django,java,spring,kotlin,swift,mysql,mongodb,kafka&theme=light" -- Um dia... /> -->
     </a>
   </p>
