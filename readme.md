@@ -26,12 +26,12 @@
   <table style="border-collapse: collapse; width: 100%; border: none;">
     <tr>
       <td style="border: none;">
-        <a href="https://github.com/sidneyferracinjr">
+        <a href="https://github.com/sidneyferracinjr?tab=overview&from=2024-08-01&to=2024-08-09">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyferracinjr&theme=dark&hide_border=true&background=101010&card_width=500&card_height=200" alt="Ofensiva"/>
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://linkedin.com/in/sidneyferracinjr">
+        <a href="https://github.com/sidneyferracinjr?tab=repositories">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyferracinjr&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=101010&card_width=425&card_height=200" alt="Linguagens"/>
         </a>
       </td>
@@ -56,7 +56,7 @@
 ### 🏆 Achievements
 <div>
   <p align="center">
-    <a href="#" title="Conquistas">
+    <a href="https://github.com/sidneyferracinjr?tab=achievements" title="Conquistas">
       <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sidneyferracinjr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
     </a>
   </p>
