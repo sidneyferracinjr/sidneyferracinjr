@@ -53,7 +53,7 @@
 
 <br>
 
-### 🏆 Achievements
+### 🏆 Trophies
 <div>
   <p align="center">
     <a href="https://github.com/sidneyferracinjr?tab=achievements" title="Conquistas">
