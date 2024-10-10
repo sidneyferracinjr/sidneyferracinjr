@@ -57,7 +57,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/sidneyferracinjr?tab=achievements" title="Conquistas">
-      <img width="1000" src="htttps://github-profile-trophy.vercel.app/?username=sidneyferracinjr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+      <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sidneyferracinjr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
     </a>
   </p>
 </div>
