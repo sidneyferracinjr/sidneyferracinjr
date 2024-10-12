@@ -1,7 +1,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev"> 
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,py,django,java,spring,postgres,mysql&theme=light"/><!-- day one -->
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,py,django,java,spring,mysql,postgres&theme=light"/><!-- day one -->
       <!-- <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,py,django,java,spring,kotlin,swift,mysql,mongodb,aws,kafka&theme=light"/> one day -->
     </a>
   </p>
