@@ -1,3 +1,8 @@
+# SIDNEY ALEXANDRE FERRACIN JUNIOR
+#### Software Developer
+
+
+
 ## Certificados
 - (2024) [Quarta Revolução Industrial: Internet das Coisas](https://www.linkedin.com/learning/certificates/c404f6a67333f525cd136460001cc1e1f033f006c8413141859fd4f786d6daeb)
 - (06/2023) [Boas Práticas em Cibersegurança](https://www.udemy.com/certificate/UC-983ffa3f-7dca-411b-bf56-0827e2903aba/)
