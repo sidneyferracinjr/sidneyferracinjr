@@ -5,8 +5,14 @@
     <a href="mailto:sidneyferracinjr+githubreadme@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail sidneyferracinjr"></a>
     <a href="https://t.me/sidneyferracinjr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram sidneyferracinjr"></a>
   </p>
+<br>
+  <p align="center">
+    <a href="https://skillicons.dev"> 
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,py,django,java,kotlin,spring,postgres,mongodb,docker,aws&theme=light"/>
+    </a>
+  </p>
 </div>
-
+<br>
 
 ### 🚀 Weekly Performance
 <div align="center> 
@@ -43,18 +49,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br>
-
-### 🛠️ Skillset
-<div>
-  <p align="center">
-    <a href="https://skillicons.dev"> 
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,py,django,java,spring,postgres,mongodb,docker&theme=light"/><!-- day one -->
-      <!-- <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,py,django,java,spring,kotlin,swift,mysql,mongodb,aws,kafka&theme=light"/> one day -->
-    </a>
-  </p>
 </div>
 
 <br>
