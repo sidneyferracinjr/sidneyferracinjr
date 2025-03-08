@@ -62,5 +62,3 @@
   </p>
 </div>
 
-<!-- sidneyferracinjr© -->
-
