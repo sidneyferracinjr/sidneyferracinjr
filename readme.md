@@ -3,7 +3,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/sidneyferracinjr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin sidneyferracinjr"></a>
     <a href="mailto:sidneyferracinjr+githubreadme@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail sidneyferracinjr"></a>
-    <a href="https://t.me/sidneyferracinjr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram sidneyferracinjr"></a>
   </p>
 <br>
   <p align="center">
