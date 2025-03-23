@@ -20,3 +20,4 @@
 - (07/2022) [Lógica de Programação e Algoritmos com VisualG](ude.my/UC-32497792-4e01-4fc0-b03a-b2ba53c55357)
 - (07/2022) [Técnicas de Comunicação Interpessoal](https://www.linkedin.com/learning/certificates/c7a7feccb4d66e639e9ed9620f9c0c77f7a8527d0c835ffa9a6e89aaecb3345c?trk=share_certificate)
 - (12/2021) [Python](https://www.devmedia.com.br/certificado/tecnologia/python/sidney-ferracin-jr-1)
+
