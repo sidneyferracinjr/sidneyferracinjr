@@ -15,14 +15,14 @@
 
 <br>
 
-### 🚀 Weekly Performance
+### 🚀 Weekly Commits
 <div align="center> 
 
   [![Performance sidneyferracinjr](https://github-readme-activity-graph.vercel.app/graph?username=sidneyferracinjr&hide_title=true&hide_border=true&theme=github-compact&color=E6EDF3&line=29903B&point=E6EDF3&grid=false&days=7&area=true&area_color=29903B)](https://github.com/sidneyferracinjr)
 
 </div>
 
-### 📈 Statistics
+### 📈 Overview
 <div>
   <table style="border-collapse: collapse; width: 100%; border: none;">
     <tr>
